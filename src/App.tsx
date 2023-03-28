@@ -7,9 +7,9 @@ function App() {
     <div className="App">
       <header className="App-header">
         <img src={logo} className="logo" alt="logo" />
-        <h4>ระบบบันทึกการจัดการเรียนการสอน</h4>
+        <h4>ขอแสดงความยินดีกับนักเรียนทุกคน</h4>
         <p>
-          เปิดใช้งานสัปดาห์หน้าครับ
+          ระบบเปิดตอนเช้าครับ
         </p>
       </header>
     </div>
